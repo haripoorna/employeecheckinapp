@@ -5,7 +5,7 @@
 //   longitudeDelta: 0.0421,
 // };
 export  const officeLocation = {
-  latitude: 18.10343934555508,
+  latitude: 18.10343934555502,
   longitude: 83.4005718460291,
   latitudeDelta: 0.0922,
   longitudeDelta: 0.0421,
